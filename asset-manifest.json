@@ -1,13 +1,13 @@
 {
-  "main.css": "/ClickyGame/static/css/main.ead11357.chunk.css",
-  "main.js": "/ClickyGame/static/js/main.893f5ab9.chunk.js",
-  "main.js.map": "/ClickyGame/static/js/main.893f5ab9.chunk.js.map",
-  "static/js/1.35d49673.chunk.js": "/ClickyGame/static/js/1.35d49673.chunk.js",
-  "static/js/1.35d49673.chunk.js.map": "/ClickyGame/static/js/1.35d49673.chunk.js.map",
-  "runtime~main.js": "/ClickyGame/static/js/runtime~main.59843ae1.js",
-  "runtime~main.js.map": "/ClickyGame/static/js/runtime~main.59843ae1.js.map",
-  "static/css/main.ead11357.chunk.css.map": "/ClickyGame/static/css/main.ead11357.chunk.css.map",
-  "index.html": "/ClickyGame/index.html",
-  "precache-manifest.fee30fd6d70e84f2d292f9e61f87697d.js": "/ClickyGame/precache-manifest.fee30fd6d70e84f2d292f9e61f87697d.js",
-  "service-worker.js": "/ClickyGame/service-worker.js"
+  "main.css": "/ClickyValentine/static/css/main.ead11357.chunk.css",
+  "main.js": "/ClickyValentine/static/js/main.406614de.chunk.js",
+  "main.js.map": "/ClickyValentine/static/js/main.406614de.chunk.js.map",
+  "static/js/1.35d49673.chunk.js": "/ClickyValentine/static/js/1.35d49673.chunk.js",
+  "static/js/1.35d49673.chunk.js.map": "/ClickyValentine/static/js/1.35d49673.chunk.js.map",
+  "runtime~main.js": "/ClickyValentine/static/js/runtime~main.9d965a04.js",
+  "runtime~main.js.map": "/ClickyValentine/static/js/runtime~main.9d965a04.js.map",
+  "static/css/main.ead11357.chunk.css.map": "/ClickyValentine/static/css/main.ead11357.chunk.css.map",
+  "index.html": "/ClickyValentine/index.html",
+  "precache-manifest.7019b5375c65c9376dab643f186f9a30.js": "/ClickyValentine/precache-manifest.7019b5375c65c9376dab643f186f9a30.js",
+  "service-worker.js": "/ClickyValentine/service-worker.js"
 }
