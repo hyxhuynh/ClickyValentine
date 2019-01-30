@@ -1,6 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Clicky Valentine Game
+This app is a memory game created with React. In order to create this app, it is required to break up the application's UI into components, manage component state, and respond to user events.
+
+Check out the app at: https://hyxhuynh.github.io/ClickyValentine/
 
 In the project directory, you can run:
 
