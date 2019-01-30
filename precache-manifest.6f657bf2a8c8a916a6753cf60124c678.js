@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a3e77e67a395814fa695",
+    "revision": "1272daffb0bbda6213ff",
     "url": "/ClickyValentine/static/css/main.4818a44a.chunk.css"
   },
   {
-    "revision": "a3e77e67a395814fa695",
-    "url": "/ClickyValentine/static/js/main.a3e77e67.chunk.js"
+    "revision": "1272daffb0bbda6213ff",
+    "url": "/ClickyValentine/static/js/main.1272daff.chunk.js"
   },
   {
     "revision": "35d4967322379881d30c",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/ClickyValentine/static/js/runtime~main.9d965a04.js"
   },
   {
-    "revision": "8fb675ccff46c77bc6a50dace242f815",
+    "revision": "e95626233237fee200eb9f978d2e75df",
     "url": "/ClickyValentine/index.html"
   }
 ];
