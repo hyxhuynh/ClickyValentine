@@ -1,0 +1,17 @@
+.header {
+  background-color: pink;
+  background-image: url("/assets/images/valentine-background.jpg");
+  background-repeat: repeat;
+  color: coral;
+  /* min-height: 200px; */
+  padding: 180px 20px; 
+  padding-bottom: 200px;
+  text-align: center;
+  font-size: 1.75rem;
+}
+
+.header h1 {
+  margin: 0;
+  margin-bottom: 30px;
+  font-size: 4rem;
+}

@@ -1,0 +1,36 @@
+.footer {
+  background: 
+  pink;
+  height: 100px;
+  position: relative;
+  color: white;
+  overflow: auto;
+  position: static;
+}
+
+.footer > .bottom {
+  position: static;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background:coral;
+  padding: 8px;
+  font-weight: 600;
+}
+
+.footer > .credit {
+  position: static;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background:pink;
+  padding: 8px;
+  font-weight: 600;
+}
+
+.footer > .bottom > img {
+  width: 20px;
+  position: relative;
+  top: 3px;
+  left: 2px;
+}
