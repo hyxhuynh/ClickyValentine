@@ -1,12 +1,13 @@
 .header {
   background-color: pink;
-  background-image: url("/assets/images/valentine-background.jpg");
-  background-repeat: repeat;
-  color: coral;
+  background-image: url("http://longwallpapers.com/Desktop-Wallpaper/love-wallpapers-hd-resolution-For-Desktop-Wallpaper.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: rgb(160, 52, 12);
   /* min-height: 200px; */
   padding: 180px 20px; 
-  padding-bottom: 200px;
-  text-align: center;
+  padding-bottom: 180px;
+  text-align: left;
   font-size: 1.75rem;
 }
 

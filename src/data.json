@@ -1,66 +1,66 @@
 [
   {
-    "icon" : "/assets/images/008-mailbox.png",
+    "icon" : "https://image.flaticon.com/icons/svg/693/693365.svg",
     "key": 1
   },
   {
-    "icon" : "/assets/images/012-ace-of-hearts.png",
+    "icon" : "https://image.flaticon.com/icons/svg/693/693358.svg",
     "key":  2
   },
   {
-    "icon" : "/assets/images/014-valentines-day-1.png",
+    "icon" : "https://image.flaticon.com/icons/svg/693/693333.svg",
     "key": 3 
   },
   {
-    "icon" : "/assets/images/015-romantic-music.png",
+    "icon" : "https://image.flaticon.com/icons/svg/693/693353.svg",
     "key":  4
   },
   {
-    "icon" : "/assets/images/020-home.png",
+    "icon" : "https://image.flaticon.com/icons/svg/693/693369.svg",
     "key":  5
   },
   {
-    "icon" : "/assets/images/021-gift.png",
+    "icon" : "https://image.flaticon.com/icons/svg/693/693367.svg",
     "key": 6 
   },
   {
-    "icon" : "/assets/images/026-potion.png",
+    "icon" : "https://image.flaticon.com/icons/svg/693/693327.svg",
     "key": 7 
   },
   {
-    "icon" : "/assets/images/027-love.png",
+    "icon" : "https://image.flaticon.com/icons/svg/693/693370.svg",
     "key": 8 
   },
   {
-    "icon" : "/assets/images/028-jigsaw.png",
+    "icon" : "https://image.flaticon.com/icons/svg/693/693372.svg",
     "key": 9 
   },
   {
-    "icon" : "/assets/images/040-heart-1.png",
+    "icon" : "https://image.flaticon.com/icons/svg/693/693330.svg",
     "key": 10 
   },
   {
-    "icon" : "/assets/images/041-cupid.png",
+    "icon" : "https://image.flaticon.com/icons/svg/693/693373.svg",
     "key": 11 
   },
   {
-    "icon" : "/assets/images/044-engagement-ring.png",
+    "icon" : "https://image.flaticon.com/icons/svg/693/693338.svg",
     "key": 12
   },
   {
-    "icon" : "/assets/images/022-diary.png",
+    "icon" : "https://image.flaticon.com/icons/svg/693/693356.svg",
     "key": 13 
   },
   {
-    "icon" : "/assets/images/016-toast.png",
+    "icon" : "https://image.flaticon.com/icons/svg/693/693351.svg",
     "key": 14 
   },
   {
-    "icon" : "/assets/images/047-balloon.png",
+    "icon" : "https://image.flaticon.com/icons/svg/693/693350.svg",
     "key": 15 
   },
   {
-    "icon" : "/assets/images/050-search.png",
+    "icon" : "https://image.flaticon.com/icons/svg/693/693357.svg",
     "key": 16 
   }
 ]
